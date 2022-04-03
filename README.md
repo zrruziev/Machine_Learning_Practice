@@ -2,7 +2,7 @@
 **Learn and Practise Deep Learning with simple projects in a simple way!**
 
 * ## Hands_On_Machine_Learning
-     Learning process based on [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/) book
+     Learning process based on [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, 2nd Edition](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
      
 * ## Practice
      Practising anything that I am interested in based on Deep Learning
