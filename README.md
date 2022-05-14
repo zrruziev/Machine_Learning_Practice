@@ -1,5 +1,5 @@
 # Deep_Learning_Practice
-**Learn and Practise Deep Learning with simple projects in a simple way!**
+**Learn and Practise Deep Learning by becoming one with the data!**
    
 * ## Practice
      Practising anything that I am interested in based on Deep Learning
